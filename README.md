@@ -1,13 +1,9 @@
 # Hi, I'm Tuna Can Tungul 👾
 
-**Game Developer & Computer Engineering Student**  
+**Computer Engineering Student**  
 TED University · Ankara, Turkey
 
 ---
-
-## 🎮 About Me
-
-I'm a computer engineering student passionate about game development. I participate in game jams, build games with Godot and Unity, and love turning ideas into playable experiences.
 
 - 🎓 Studying **Computer Engineering** at TED University (2023–Present)
 - 🔭 Currently working on new game projects
